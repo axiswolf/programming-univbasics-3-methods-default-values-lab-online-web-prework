@@ -2,6 +2,5 @@
 # For output purposes, use "puts" instead of "print" or "p"
 
 def meal_choice(veggie,carb, protein = "meat")
-
-  puts "A plate of #{protein} with #{veggie} and #{carb}."
+  "A plate of #{protein} with #{veggie} and #{carb}."
 end
