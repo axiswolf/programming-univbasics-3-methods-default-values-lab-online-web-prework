@@ -1,7 +1,7 @@
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
 
-def meal_choice(protein = "meat")
+def meal_choice(veggie,carb, protein = "meat")
 
-  puts "A plate of #{protein} with broccoli and macaroni."
+  puts "A plate of #{protein} with #{veggie} and #{carb}."
 end
