@@ -3,5 +3,5 @@
 
 def meal_choice(veggie,carb, protein = "meat")
   "A plate of #{protein} with #{veggie} and #{carb}."
-  puts "What a nutritious meal!"
+  "What a nutritious meal!"
 end
