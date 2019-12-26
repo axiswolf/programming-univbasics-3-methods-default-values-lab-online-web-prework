@@ -3,5 +3,5 @@
 
 def meal_choice(protein = "meat")
 
-
+  puts "A plate of #{protein} with broccoli and macaroni."
 end
